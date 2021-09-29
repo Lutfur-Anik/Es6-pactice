@@ -1,0 +1,10 @@
+const firstArray=[12,45,34,23];
+const secondArray=[23,43,12];
+const array=[...firstArray,5,...secondArray];
+console.log(array);
+const business=450;
+const sagor=400;
+const anik=1000;
+const takaPoisa=[450,400,1000];
+const maximum=Math.max(...takaPoisa);
+console.log(maximum);
